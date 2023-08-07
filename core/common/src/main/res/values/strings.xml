@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="successful">Successful</string>
+    <string name="unsuccessful">Unsuccessful</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="flight_number">Flight Number</string>
+    <string name="details">Details</string>
+    <string name="date_utc">Launch Date UTC</string>
+    <string name="launch_success">Launch Success</string>
+    <string name="title">SpaceX</string>
+    <string name="tap_for_details">Tap a launch for more details.</string>
+
+    <string name="no_data_available">No data available. \nPlease check your network connection and try again.</string>
+
+    <string name="rocket_launches_deep_link" translatable="false">spacex-app://com.spacex.launches.feature.rocketlaunches</string>
+    <string name="rocket_launch_details_deep_link" translatable="false">spacex-app://com.spacex.launches.feature.rocketlaunch_details/{flightNumber}</string>
+
+</resources>
+
